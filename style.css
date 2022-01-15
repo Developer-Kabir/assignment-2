@@ -6,7 +6,55 @@ body{
 
 
 
+.influencer{
+margin: 0 50px 50px 50px;
+height: 500px;
 
+}
+
+.main-influencer{
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+.influencer-content{
+ width: 50%;
+ 
+}
+
+
+
+.Journey-header{
+    font-size: 50px;
+    color: #3A3A3A;
+    font-weight: 900;
+    padding-top: 40px;
+    margin-bottom: 10px;
+}
+
+.influencer-content p {
+    font-size: 16px;
+    color: #3A3A3A;
+}
+.inf-img{
+    width: 50%;
+    
+}
+
+.inf-img img{
+    width: 440px;
+    height: 410px;
+}
+
+button{
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #e02c6d;
+    border: 1px solid white;
+    border-radius: 20px;
+   font-weight: 700;
+}
 
 .footer-content{
     text-align: center;
