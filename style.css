@@ -134,6 +134,48 @@ button{
 }
 
 
+
+
+
+.Mailchimp{
+    height: 400px;
+    margin: 0 120px;
+
+}
+
+.ex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.ex1{
+    width: 50%;
+    margin-top: 30px;
+}
+.ex1 h1 {
+   font-size: 40px;
+   color: gray;
+}
+.ex2{
+    width: 50%;
+   
+}
+.ex2 img {
+    width: 500px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    float: right;
+}
+
+input {
+    width: 450px;
+    height: 40px;
+    border: 2px solid gray;
+    border-radius: 30px;
+}
+
+
 .footer-content{
     text-align: center;
     background-color: #0a0826;
